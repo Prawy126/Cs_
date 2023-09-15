@@ -42,7 +42,8 @@
             {
                 Console.WriteLine("Nie powiodło się");
             }
-            kot2.PijMleko();
+            //kot2.PijMleko(); nie ma tej metody gdyż kot2 powstał na bazie zwierze
+
         }
     }
 }
